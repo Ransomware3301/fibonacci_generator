@@ -1,3 +1,9 @@
+/* 
+ *    Program:      Fibonacci generator (up to the 92nd Fibonacci number)
+ *    Made by:      Ransomware3301 (https://github.com/ransomware3301)
+ *    Date:         26-03-2023
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
